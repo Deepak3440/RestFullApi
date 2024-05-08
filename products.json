@@ -1,0 +1,403 @@
+[
+    {
+      "name": "iPhone X",
+      "price": 999,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:00:00.000Z",
+      "company": "Apple"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 799,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:01:00.000Z",
+      "company": "Samsung"
+    },
+    {
+      "name": "Nokia 3310",
+      "price": 49,
+      "featured": true,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:02:00.000Z",
+      "company": "Nokia"
+    },
+    {
+      "name": "Apple Watch Series 6",
+      "price": 399,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:03:00.000Z",
+      "company": "Apple"
+    },
+    {
+      "name": "Samsung Refrigerator",
+      "price": 1499,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:04:00.000Z",
+      "company": "Samsung"
+    },
+    {
+      "name": "Dell XPS 13 Laptop",
+      "price": 1299,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:05:00.000Z",
+      "company": "Dell"
+    },
+    {
+      "name": "Sony PlayStation 5",
+      "price": 499,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:06:00.000Z",
+      "company": "Sony"
+    },
+    {
+      "name": "LG OLED TV",
+      "price": 1999,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:07:00.000Z",
+      "company": "LG"
+    },
+    {
+      "name": "HP Envy Printer",
+      "price": 149,
+      "featured": true,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:08:00.000Z",
+      "company": "HP"
+    },
+    {
+      "name": "Canon EOS R5 Camera",
+      "price": 3899,
+      "featured": false,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:09:00.000Z",
+      "company": "Canon"
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "price": 1499,
+      "featured": true,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:10:00.000Z",
+      "company": "Lenovo"
+    },
+    {
+      "name": "Xiaomi Redmi Note 10",
+      "price": 199,
+      "featured": true,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:11:00.000Z",
+      "company": "Xiaomi"
+    },
+    {
+      "name": "Google Pixel 5",
+      "price": 699,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:12:00.000Z",
+      "company": "Google"
+    },
+    {
+      "name": "OnePlus 9 Pro",
+      "price": 969,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:13:00.000Z",
+      "company": "OnePlus"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "price": 999,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:14:00.000Z",
+      "company": "Microsoft"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "price": 1499,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:15:00.000Z",
+      "company": "Asus"
+    },
+    {
+      "name": "Amazon Echo Dot",
+      "price": 49,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:16:00.000Z",
+      "company": "Amazon"
+    },
+    {
+      "name": "Fitbit Versa 3",
+      "price": 229,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:17:00.000Z",
+      "company": "Fitbit"
+    },
+    {
+      "name": "Razer Blade 15 Gaming Laptop",
+      "price": 1599,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:18:00.000Z",
+      "company": "Razer"
+    },
+    {
+      "name": "Bose QuietComfort 35 II",
+      "price": 299,
+      "featured": false,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:19:00.000Z",
+      "company": "Bose"
+    },
+    {
+      "name": "JBL Flip 5 Bluetooth Speaker",
+      "price": 119,
+      "featured": true,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:20:00.000Z",
+      "company": "JBL"
+    },
+    {
+      "name": "Corsair K95 RGB Platinum XT Keyboard",
+      "price": 199,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:21:00.000Z",
+      "company": "Corsair"
+    },
+    {
+      "name": "Logitech G502 Hero Gaming Mouse",
+      "price": 79,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:22:00.000Z",
+      "company": "Logitech"
+    },
+    {
+      "name": "SteelSeries Arctis 7 Wireless Headset",
+      "price": 149,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:23:00.000Z",
+      "company": "SteelSeries"
+    },
+    {
+      "name": "HyperX Cloud Alpha Gaming Headset",
+      "price": 99,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:24:00.000Z",
+      "company": "HyperX"
+    },
+    {
+      "name": "GoPro Hero 9 Black",
+      "price": 449,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:25:00.000Z",
+      "company": "GoPro"
+    },
+    {
+      "name": "DJI Mavic Air 2 Drone",
+      "price": 799,
+      "featured": false,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:26:00.000Z",
+      "company": "DJI"
+    },
+    {
+      "name": "Samsung QLED Q90T TV",
+      "price": 2299,
+      "featured": true,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:27:00.000Z",
+      "company": "Samsung"
+    },
+    {
+      "name": "Sony WH-1000XM4 Wireless Headphones",
+      "price": 349,
+      "featured": false,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:28:00.000Z",
+      "company": "Sony"
+    },
+    {
+      "name": "Nintendo Switch",
+      "price": 299,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:29:00.000Z",
+      "company": "Nintendo"
+    },
+    {
+      "name": "Apple MacBook Pro 13",
+      "price": 1299,
+      "featured": false,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:30:00.000Z",
+      "company": "Apple"
+    },
+    {
+      "name": "Raspberry Pi 4",
+      "price": 35,
+      "featured": true,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:31:00.000Z",
+      "company": "Raspberry Pi Foundation"
+    },
+    {
+      "name": "Anker PowerCore 10000 Portable Charger",
+      "price": 19,
+      "featured": false,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:32:00.000Z",
+      "company": "Anker"
+    },
+    {
+      "name": "Garmin Forerunner 245 Music Smartwatch",
+      "price": 349,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:33:00.000Z",
+      "company": "Garmin"
+    },
+    {
+      "name": "Xbox Series X",
+      "price": 499,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:34:00.000Z",
+      "company": "Microsoft"
+    },
+    {
+      "name": "Logitech MX Master 3 Wireless Mouse",
+      "price": 99,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:35:00.000Z",
+      "company": "Logitech"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "price": 999,
+      "featured": true,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:36:00.000Z",
+      "company": "Huawei"
+    },
+    {
+      "name": "Bose SoundLink Revolve+ Bluetooth Speaker",
+      "price": 299,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:37:00.000Z",
+      "company": "Bose"
+    },
+    {
+      "name": "Fitbit Charge 4",
+      "price": 149,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:38:00.000Z",
+      "company": "Fitbit"
+    },
+    {
+      "name": "Vizio OLED TV",
+      "price": 1799,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:39:00.000Z",
+      "company": "Vizio"
+    },
+    {
+      "name": "Jabra Elite 85t True Wireless Earbuds",
+      "price": 229,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:40:00.000Z",
+      "company": "Jabra"
+    },
+    {
+      "name": "Philips Hue Starter Kit",
+      "price": 199,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:41:00.000Z",
+      "company": "Philips"
+    },
+    {
+      "name": "Sonos One Smart Speaker",
+      "price": 199,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:42:00.000Z",
+      "company": "Sonos"
+    },
+    {
+      "name": "Lenovo Legion Y740 Gaming Laptop",
+      "price": 1499,
+      "featured": false,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:43:00.000Z",
+      "company": "Lenovo"
+    },
+    {
+      "name": "Canon PIXMA TR8520 Printer",
+      "price": 149,
+      "featured": true,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:44:00.000Z",
+      "company": "Canon"
+    },
+    {
+      "name": "Xiaomi Mi Band 6",
+      "price": 49,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:45:00.000Z",
+      "company": "Xiaomi"
+    },
+    {
+      "name": "Google Nest Hub Max",
+      "price": 229,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:46:00.000Z",
+      "company": "Google"
+    },
+    {
+      "name": "Roku Ultra Streaming Player",
+      "price": 99,
+      "featured": false,
+      "rating": 4,
+      "createdAt": "2024-05-08T10:47:00.000Z",
+      "company": "Roku"
+    },
+    {
+      "name": "Apple AirPods Pro",
+      "price": 249,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:48:00.000Z",
+      "company": "Apple"
+    },
+    {
+      "name": "Samsung Odyssey G7 Gaming Monitor",
+      "price": 699,
+      "featured": true,
+      "rating": 5,
+      "createdAt": "2024-05-08T10:49:00.000Z",
+      "company": "Samsung"
+    }
+  ]
+  
